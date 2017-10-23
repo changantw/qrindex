@@ -1,0 +1,39 @@
+baseURL = "http://changantw.com/qrindex/"
+languageCode = "en-us"
+title = "長安製麵"
+theme = "hugo-goa"
+
+[params]
+author = "經典傳承六十年"
+#https://biz.line.naver.jp/line_business/img/btn/addfriends_zh-Hant.png
+intro = "<img src=\"https://static.line.naver.jp/line_regulation/files/ver2/LINE_Icon.png\" height=\"40\" width=\"40\"> changantw"
+#intro = "<img src=\"static/img/LINE_40x40.png\" height=\"40\" width=\"40\"> changantw"
+description = ""
+authorimage = "ca_avatar.png"
+dateformat = "Jan 2, 2006"
+
+[params.meta]
+description = "changan noodle"
+keywords = "changan,noodle"
+
+[params.social]
+#twitter = "ca"
+#google = "ca"
+facebook = "changantw"
+#github = "ca"
+#instagram = "ca"
+#linkedin = "ca"
+email = "info@changantw.com"
+
+[params.extra]
+#Copyright © 2017 Apple Inc. All rights reserved.
+copyright = "Copyright © 2017 Changan Noodles Inc. All rights reserved."
+poweredby = false
+highlightjs = false
+
+## Main Menu
+[[menu.main]]
+  name = ""
+  weight = 100
+  identifier = ""
+  url = "#"
