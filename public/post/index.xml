@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 長安製麵</title>
+    <link>http://changantw.com/qrindex/post/</link>
+    <description>Recent content in Posts on 長安製麵</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 19:11:22 +0800</lastBuildDate>
+    
+	<atom:link href="http://changantw.com/qrindex/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 10 23 First Post</title>
+      <link>http://changantw.com/qrindex/post/2017-10-23-first-post/</link>
+      <pubDate>Mon, 23 Oct 2017 19:11:22 +0800</pubDate>
+      
+      <guid>http://changantw.com/qrindex/post/2017-10-23-first-post/</guid>
+      <description>Changan Noodles.</description>
+    </item>
+    
+  </channel>
+</rss>
